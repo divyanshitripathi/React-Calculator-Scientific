@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  display: flex;
+  margin: 60px;
+  background-color:rgb(205, 224, 247) ;
+  border-style: inset;
+  border-width: 2px;
+  border-color: #000;
+}
+.btn
+{
+  padding: 0px;
+}
+.inputfield
+{
+  display: flex;
+  width: 380px;
+  height: 100px;
+  border-color: #007bff;
+  border-width: 1px;
+  border-radius: 4px;
+  color: #007bff;
+  flex: 1;
+  margin-bottom: 5px;
+}
+
+@media screen and (max-width: 600px)
+{
+  .inputfield
+  {
+  display: flex;
+  width: 243px;
+  height: 80px;
+  flex: 1;
+  }
+}
+@media screen and (max-width: 800px)
+{
+  .inputfield
+  {
+  display: flex;
+  width: 480px;
+  height: 80px;
+  flex: 1;
+  }
+  
+}
+hr
+{
+  display: block;
+  border-style: dotted;
+  border-width: 3px;
+  
+
+} 
+
+.design
+{
+  border-color: #000 ;
+  border-width: 2px;
+}
