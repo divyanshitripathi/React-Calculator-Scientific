@@ -2,7 +2,8 @@
 React-Calculator-Scientific full funtional in react with react bootstrap 
 
 # Installation 
-Npm React to run the project.
+Use Yarn Install to build the project.
+Use Yarn start to run 
 React with React-bootstrap 
 React-icons 
 # Breif 
