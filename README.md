@@ -4,7 +4,8 @@ React-Calculator-Scientific full functional in react with react bootstrap
 
 # Installation
 
-Npm start to run the project.
+Use npm Install to build the project.
+Use npm start to run
 React with React-bootstrap
 React-icons
 
