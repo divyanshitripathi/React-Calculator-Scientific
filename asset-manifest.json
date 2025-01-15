@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "//React-Calculator-Scientific/static/css/main.86875784.chunk.css",
-    "main.js": "//React-Calculator-Scientific/static/js/main.9d72367a.chunk.js",
-    "main.js.map": "//React-Calculator-Scientific/static/js/main.9d72367a.chunk.js.map",
-    "runtime-main.js": "//React-Calculator-Scientific/static/js/runtime-main.4603f43c.js",
-    "runtime-main.js.map": "//React-Calculator-Scientific/static/js/runtime-main.4603f43c.js.map",
-    "static/js/2.ea077474.chunk.js": "//React-Calculator-Scientific/static/js/2.ea077474.chunk.js",
-    "static/js/2.ea077474.chunk.js.map": "//React-Calculator-Scientific/static/js/2.ea077474.chunk.js.map",
-    "static/js/3.313b19b6.chunk.js": "//React-Calculator-Scientific/static/js/3.313b19b6.chunk.js",
-    "static/js/3.313b19b6.chunk.js.map": "//React-Calculator-Scientific/static/js/3.313b19b6.chunk.js.map",
-    "index.html": "//React-Calculator-Scientific/index.html",
-    "static/css/main.86875784.chunk.css.map": "//React-Calculator-Scientific/static/css/main.86875784.chunk.css.map",
-    "static/js/2.ea077474.chunk.js.LICENSE.txt": "//React-Calculator-Scientific/static/js/2.ea077474.chunk.js.LICENSE.txt"
+    "main.css": "/React-Calculator-Scientific/static/css/main.86875784.chunk.css",
+    "main.js": "/React-Calculator-Scientific/static/js/main.9d72367a.chunk.js",
+    "main.js.map": "/React-Calculator-Scientific/static/js/main.9d72367a.chunk.js.map",
+    "runtime-main.js": "/React-Calculator-Scientific/static/js/runtime-main.cc73ca14.js",
+    "runtime-main.js.map": "/React-Calculator-Scientific/static/js/runtime-main.cc73ca14.js.map",
+    "static/js/2.ea077474.chunk.js": "/React-Calculator-Scientific/static/js/2.ea077474.chunk.js",
+    "static/js/2.ea077474.chunk.js.map": "/React-Calculator-Scientific/static/js/2.ea077474.chunk.js.map",
+    "static/js/3.313b19b6.chunk.js": "/React-Calculator-Scientific/static/js/3.313b19b6.chunk.js",
+    "static/js/3.313b19b6.chunk.js.map": "/React-Calculator-Scientific/static/js/3.313b19b6.chunk.js.map",
+    "index.html": "/React-Calculator-Scientific/index.html",
+    "static/css/main.86875784.chunk.css.map": "/React-Calculator-Scientific/static/css/main.86875784.chunk.css.map",
+    "static/js/2.ea077474.chunk.js.LICENSE.txt": "/React-Calculator-Scientific/static/js/2.ea077474.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4603f43c.js",
+    "static/js/runtime-main.cc73ca14.js",
     "static/js/2.ea077474.chunk.js",
     "static/css/main.86875784.chunk.css",
     "static/js/main.9d72367a.chunk.js"
